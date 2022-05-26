@@ -1,2 +1,1 @@
-# web-dev-hw
-repository for Intro to Web Design homework
+# Anezka Tornerova's web-dev-hw
