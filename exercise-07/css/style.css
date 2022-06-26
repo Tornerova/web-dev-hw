@@ -4,7 +4,7 @@ body {
   background-color: #F0FFF0;
   color: #4169E1;
   padding: 5px;
-  font-family: Lato, Helvetica, sans-serif;
+  font-family: 'Arvo', serif;
 }
 
 /* Paragraph Content */
@@ -13,4 +13,5 @@ body {
   background-color: #EEE8AA;
   color: #dd4b39;
   padding: 5px;
+  font-family: Lato, Helvetica, sans-serif;
 }
