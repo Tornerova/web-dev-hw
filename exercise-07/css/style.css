@@ -34,7 +34,7 @@ a {
   padding: 8px;
 }
 a:hover {
-  font-style: bold;
+  font-weight: bold;
 }
 a:visited {
   font-style: italic;
