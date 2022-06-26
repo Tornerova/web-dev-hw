@@ -9,7 +9,8 @@ body {
 
 /* Paragraph Content */
 .text {
+  text-align: left;
   background-color: #EEE8AA;
-  color: ##dd4b39;
+  color: #dd4b39;
   padding: 5px;
 }
