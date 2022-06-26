@@ -32,3 +32,13 @@ a {
   background-color: #DAF7A6;
   padding: 8px;
 }
+a:hover {
+  font-style: italic;
+}
+a:visited {
+  font-style: italic;
+  color: #7B68EE;
+}
+a:active {
+  background-color: #E0FFFF;
+}
