@@ -27,3 +27,7 @@ p:first-of-type:first-letter {
   font-weight: 600;
   Color: #FF5733;
 }
+
+a {
+  background-color: #DAF7A6  
+}
