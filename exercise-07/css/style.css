@@ -22,7 +22,7 @@ body {
   line-height: 1em;
 }
 
-p:second-of-type:first-letter {
+p:first-of-type:first-letter {
   font-family:'Meddon', cursive;
   font-size: 5em;
   font-weight: 600;
