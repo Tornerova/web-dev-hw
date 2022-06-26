@@ -11,18 +11,18 @@ body{
 }
 
 
-#pink {
+#lightest {
   background-color: #FFF8DC;
 }
 
-#green {
+#light {
   background-color: #FFEBCD;
 }
 
-#yellow {
+#darker {
   background-color: #FFE4C4;
 }
 
-#blue {
+#darkest {
   background-color: #FFDEAD;
 }
