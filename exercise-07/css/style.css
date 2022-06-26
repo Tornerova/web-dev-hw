@@ -16,6 +16,8 @@ body {
   color: #4169E1;
   padding: 5px;
   font-family: Lato, Helvetica, sans-serif;
+
+  line-height: 2em;
 }
 
 p:first-of-type:first-letter {
