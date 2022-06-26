@@ -18,6 +18,9 @@ body {
   font-family: Lato, Helvetica, sans-serif;
 }
 
-p::first-letter {
+p:first-of-type:first-letter {
   font-family:'Meddon', cursive;
+  font-size: 3em;
+  font-weight: 600;
+  Color: #FF5733;
 }
