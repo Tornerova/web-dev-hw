@@ -4,7 +4,7 @@
 body {
   text-align: center;
   background-color: #F0FFF0;
-  color: #4169E1;
+  color: #dd4b39;
   padding: 5px;
   font-family: 'Arvo', serif;
 }
@@ -13,7 +13,7 @@ body {
 .text {
   text-align: left;
   background-color: #EEE8AA;
-  color: #dd4b39;
+  color: #4169E1;
   padding: 5px;
   font-family: Lato, Helvetica, sans-serif;
 }
