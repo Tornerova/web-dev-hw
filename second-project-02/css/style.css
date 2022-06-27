@@ -60,6 +60,10 @@ body {
   margin: 1em;
 }
 
+.social-links img{
+  width: 25%;
+}
+
 .site-links a:hover {
   margin-left: 2.5em;
 
