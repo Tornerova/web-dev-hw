@@ -67,6 +67,10 @@ body {
   float: left;
 }
 
+.social-links img:hover {
+  background-color: #c2edda;
+}
+
 .site-links a:hover {
   margin-left: 2.5em;
 
