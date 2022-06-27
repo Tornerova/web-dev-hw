@@ -62,4 +62,11 @@ body {
 
 .site-links a:hover {
   margin-left: 2.5em;
+
+.social-links {
+  background-color: inherit;
+  width: inherit;
+
+  position: inherit;
+  
 }
