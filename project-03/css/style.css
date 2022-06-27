@@ -10,12 +10,12 @@ body {
 
   position: fixed;
   top: 0;
-  center: 0;
+  left: 0;
 
 }
 
 .main{
   background-color: #FFF0F5;
-  margin-center: 200px
-  padding: 1em; 
+  margin-left: 200px
+  padding: 1em;
 }
