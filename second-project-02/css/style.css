@@ -60,6 +60,10 @@ body {
   margin: 1em;
 }
 
+.site-links a:hover {
+  margin-left: 2.5em;
+  
+
 .social-links img{
   width: 25%;
   height: auto;
@@ -71,8 +75,7 @@ body {
   background-color: #c2edda;
 }
 
-.site-links a:hover {
-  margin-left: 2.5em;
+
 
 .social-links {
   background-color: inherit;
