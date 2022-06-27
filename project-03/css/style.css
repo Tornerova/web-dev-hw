@@ -16,6 +16,7 @@ body {
 
 .main{
   background-color: #FFF0F5;
+  overflow: hidden;
   margin-left: 200px
   padding: 1em;
 }
