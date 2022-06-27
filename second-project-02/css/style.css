@@ -62,6 +62,9 @@ body {
 
 .social-links img{
   width: 25%;
+  height: auto;
+
+  float: left;
 }
 
 .site-links a:hover {
