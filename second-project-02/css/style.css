@@ -44,7 +44,9 @@ body {
 
   margin: left;
 
-
+.logo:hover {
+  border: #ffb766
+}
 
 
 }
