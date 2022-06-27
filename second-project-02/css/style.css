@@ -39,8 +39,9 @@ body {
 
 .logo {
   background-color: #fbe3e8;
-  height: 200%;
-  
+  width: 200%;
+  height: auto;
+
 }
 
 .site-links {
