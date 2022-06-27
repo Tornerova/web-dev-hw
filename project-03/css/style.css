@@ -11,6 +11,11 @@ body {
   position: fixed;
   top: 0;
   left: 0;
+}
+
+.icons{
+  width:30%
+  height:auto;
 
 }
 
