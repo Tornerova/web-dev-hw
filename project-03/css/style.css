@@ -2,30 +2,6 @@ body {
   font-family: 'Lato', sans-serif;
   font-size: 1.25em;
 }
-
-.navigation{
-  background-color: #DAF7A6;
-  width: 200px;
-  height: 100%
-
-  position: fixed;
-  top: 0;
-  left: 0;
-}
-
-.logo {
-  margin: 2em 2em 2em 2em
-}
-
-.icons{
-  width:30%
-  height:auto;
-
-  border: ;
-  border-radius: 30px
-
-}
-
 .main{
   background-color: #FFF0F5;
   overflow: auto;
@@ -36,4 +12,42 @@ body {
 .banner{
   width: 100%;
   height: auto;
+
+.navigation {
+  background-color: #DAF7A6;
+  width: 200px;
+  height: 100%
+
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.site-links a {
+  display: block;
+  margin: 1em:
+}
+
+.site-links a:hover {
+  margin-left: 2.5em;
+}
+
+.social-links {
+  background-color: inherit;
+  width: inherit;
+
+  position: inherit;
+  bottom: 0;
+}
+
+.social-links img {
+  background-color: #999;
+  width 25%
+  height: auto;
+
+  float: left;
+}
+
+.social-links img:hover {
+  background color: #DAF7A8;
 }
