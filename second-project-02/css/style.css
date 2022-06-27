@@ -32,14 +32,14 @@ body {
 }
 
 .site-info {
-margin: 2em 2em 2em 2em
+margin: 2em;
 
 .logo {
 
   width: 600%;
   height: auto;
 
-  margin: auto;
+  margin: left;
 
 
 
