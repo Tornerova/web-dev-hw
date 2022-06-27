@@ -12,6 +12,11 @@ body {
   left: 0;
 }
 
+.navigation a {
+  text-decoration: none;
+  color: #0f2862
+}
+
 .main {
   background-color: #ebf6f5;
   overflow: auto;
@@ -26,7 +31,7 @@ body {
 
 .site-info {
   margin: 2em;
-  
+
   text-align: center;
   font-size: 200%;
 
