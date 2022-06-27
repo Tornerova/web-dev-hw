@@ -8,8 +8,14 @@ body {
   width: 200px;
   height: 100%
 
+  position: fixed;
+  top: 0;
+  center: 0;
+
 }
 
 .main{
   background-color: #FFF0F5;
+  margin-center: 200px
+  padding: 1em; 
 }
