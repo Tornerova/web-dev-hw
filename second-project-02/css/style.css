@@ -34,15 +34,6 @@ body {
 
   text-align: center;
   font-size: 200%;
-
-.logo {
-  width: 300px;
-  height:auto;
-
-  margin: auto;
-  
-  border: #fbe3e8;
-
 }
 
 .logo:hover {
