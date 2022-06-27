@@ -36,7 +36,6 @@ body {
 
   text-align: center;
 
-
 .logo {
 
   width: 700%;
@@ -46,9 +45,6 @@ body {
 
 .logo:hover {
   border-color: #ffb766;
-}
-
-
 }
 
 .site-links {
@@ -62,7 +58,6 @@ body {
 
 .site-links a:hover {
   margin-left: 2.5em;
-  
 
 .social-links img{
   width: 25%;
@@ -75,13 +70,10 @@ body {
   background-color: #c2edda;
 }
 
-
-
 .social-links {
   background-color: inherit;
   width: inherit;
 
   position: inherit;
   bottom: 0;
-
 }
