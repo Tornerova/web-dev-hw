@@ -42,7 +42,7 @@ body {
   width: 700%;
   height: auto;
 
-  margin: left;
+  margin: 0 auto 1em auto;
 
 .logo:hover {
   border-color: #ffb766;
