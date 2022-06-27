@@ -36,20 +36,24 @@ body {
 
   text-align: center;
 
-
+/* JUSTINE Added curly brace! */
+}
 .logo {
-
-  width: 700%;
+/* JUSTINE resized logo from 700% to 100% to make viewable, but you can resize to whatever.
+Anything over 100% will break out of its container....*/
+  width: 100%;
   height: auto;
 
   margin: 0 auto 1em auto;
+  /* JUSTINE added Curly brace! */
+}
 
 .logo:hover {
   border-color: #ffb766;
 }
 
-
-}
+/* JUSTINE delete this floating Curly brace! */
+/*}*/
 
 .site-links {
   margin: 0 1em;
@@ -73,6 +77,9 @@ body {
 
 .site-links a:hover {
   margin-left: 2.5em;
+
+  /* JUSTINE added Curly brace! */
+}
 
 .social-links {
   background-color: inherit;
