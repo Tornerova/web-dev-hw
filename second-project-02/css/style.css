@@ -32,8 +32,9 @@ body {
 }
 
 .site-info {
-margin: 100px 75px 50px 25px;
-
+  position: absolute;
+  top: 0px;
+  right: 0px;
   text-align: center;
   font-size: 200%;
 }
