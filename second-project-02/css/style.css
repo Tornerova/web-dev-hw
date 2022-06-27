@@ -25,7 +25,9 @@ body {
 }
 
 .site-info {
-  
+  margin: 2em;
+  text-align: center;
+
 }
 
 .site-links {
