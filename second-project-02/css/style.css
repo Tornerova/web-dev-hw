@@ -54,3 +54,8 @@ body {
 .site-links {
 
 }
+
+.site-links a {
+  display: block;
+
+}
