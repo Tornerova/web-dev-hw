@@ -35,6 +35,15 @@ body {
   text-align: center;
   font-size: 200%;
 
+.logo {
+  border: #fbe3e8;
+
+}
+
+.logo:hover {
+  border: 5px solid ##ebf6f5;
+}
+
 
 }
 
