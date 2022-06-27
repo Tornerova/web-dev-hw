@@ -36,8 +36,11 @@ body {
   font-size: 200%;
 
 .logo {
-  width: 150px;
+  width: 300px;
   height:auto;
+
+  margin: auto;
+  
   border: #fbe3e8;
 
 }
